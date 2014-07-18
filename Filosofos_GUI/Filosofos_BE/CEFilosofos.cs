@@ -8,6 +8,10 @@ namespace Filosofos_BE
 {
     public class CEFilosofos
     {
+        
+        
+        
+        // hola ,.... 
         public int Comer      { get; set; }
         public int Pensar     { get; set; }
 
