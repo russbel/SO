@@ -1,0 +1,7 @@
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\obj\Debug\Filosofos_DAC.csprojResolveAssemblyReference.cache
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\bin\Debug\Filosofos_DAC.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\bin\Debug\Filosofos_DAC.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\bin\Debug\Filosofos_BE.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\bin\Debug\Filosofos_BE.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\obj\Debug\Filosofos_DAC.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_DAC\obj\Debug\Filosofos_DAC.pdb

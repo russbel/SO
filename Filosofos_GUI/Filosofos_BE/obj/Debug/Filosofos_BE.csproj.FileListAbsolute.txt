@@ -1,0 +1,5 @@
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_BE\bin\Debug\Filosofos_BE.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_BE\bin\Debug\Filosofos_BE.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_BE\obj\Debug\Filosofos_BE.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_BE\obj\Debug\Filosofos_BE.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_BE\obj\Debug\Filosofos_BE.csprojResolveAssemblyReference.cache

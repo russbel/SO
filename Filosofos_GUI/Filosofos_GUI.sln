@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filosofos_GUI", "Filosofos_GUI\Filosofos_GUI.csproj", "{01AB8B1A-AB66-4EBB-8C11-2E3C7216C71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filosofos_BE", "Filosofos_BE\Filosofos_BE.csproj", "{391EE99B-AD6A-4292-B44C-2973450FF363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filosofos_DAC", "Filosofos_DAC\Filosofos_DAC.csproj", "{D0378F91-5478-454F-9C95-D1392CE5896A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AB8B1A-AB66-4EBB-8C11-2E3C7216C71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AB8B1A-AB66-4EBB-8C11-2E3C7216C71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AB8B1A-AB66-4EBB-8C11-2E3C7216C71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AB8B1A-AB66-4EBB-8C11-2E3C7216C71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391EE99B-AD6A-4292-B44C-2973450FF363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391EE99B-AD6A-4292-B44C-2973450FF363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391EE99B-AD6A-4292-B44C-2973450FF363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391EE99B-AD6A-4292-B44C-2973450FF363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0378F91-5478-454F-9C95-D1392CE5896A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0378F91-5478-454F-9C95-D1392CE5896A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0378F91-5478-454F-9C95-D1392CE5896A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0378F91-5478-454F-9C95-D1392CE5896A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

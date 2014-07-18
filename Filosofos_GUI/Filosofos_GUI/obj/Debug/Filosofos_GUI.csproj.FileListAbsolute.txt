@@ -1,0 +1,13 @@
+c:\users\russbel\documents\visual studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_GUI.exe.config
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_GUI.exe
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_GUI.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.csprojResolveAssemblyReference.cache
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.Form1.resources
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.Properties.Resources.resources
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.csproj.GenerateResource.Cache
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.exe
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\obj\Debug\Filosofos_GUI.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_BE.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_DAC.dll
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_BE.pdb
+C:\Users\russbel\Documents\Visual Studio 2012\Projects\Filosofos_GUI\Filosofos_GUI\bin\Debug\Filosofos_DAC.pdb
